@@ -1,0 +1,27 @@
+body {
+  background-color: #a2d9ff;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #007ef5;
+}
+
+.jumbotron .display-4 {
+  font-size: xx-large;
+  font-weight: 400;
+}
+
+.jumbotron p {
+  font-weight: 500;
+}
+
+#history {
+  background-color: #007ef5;
+}
+.row {
+  text-align: center;
+}
+
+.cardbody {
+  height: min-content;
+}
