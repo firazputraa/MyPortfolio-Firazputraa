@@ -1,6 +1,12 @@
 body {
   background-color: #a2d9ff;
 }
+
+.collapse a:hover {
+  background-color: white;
+  color: black;
+}
+
 .jumbotron {
   padding-top: 2rem;
   background-color: #007ef5;
